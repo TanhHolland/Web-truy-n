@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6221adddfb386b38f40ea208"
+  },
+  "name": "Admin Hệ thống",
+  "email": "lephannham@gmail.com",
+  "username": "admin",
+  "password": "$2a$10$/2T8Gce8.6y6va9eWkdGHe.OL/U.SzMWY8GaOToFRULsRnuzZ0kuG",
+  "admin": 1,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-04T06:12:45.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T03:28:11.914Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-03-30T08:35:30.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6627a790835c199e0723d0b6"
+  },
+  "name": "Lê Phan Nhâm",
+  "email": "lenham2k3@gmail.com",
+  "username": "B21DCCN572",
+  "password": "$2a$10$/2T8Gce8.6y6va9eWkdGHe.OL/U.SzMWY8GaOToFRULsRnuzZ0kuG",
+  "admin": 0,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-04-23T12:20:32.733Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-23T12:20:32.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66534c2e5a07d95c6f187b5f"
+  },
+  "name": "User Test Hệ Thống",
+  "email": "nhamlp.b21cn572@stu.ptit.edu.vn",
+  "username": "nhamlp.b21cn572@stu.ptit.edu.vn",
+  "password": "$2a$10$J6Co5HO.tAfqp.hbKYp1N.oAR9kRYIpEHCv4/zCgoCcGHM144Uliq",
+  "admin": 0,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-26T14:50:22.530Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T14:50:22.530Z"
+  },
+  "__v": 0
+}]

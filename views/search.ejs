@@ -1,0 +1,23 @@
+<%- include ('./layout/header.ejs'); -%>
+
+<section class="features" id="features">
+    <h1 class="heading">Kết quả tìm kiếm</h1>
+    <div class="box-container">
+        <% if (searchs.length > 0) { %> <% searchs.forEach( (item) => {%>
+        <div class="box">
+            <img
+                src="/product_images/<%= item.image %>"
+                alt="<%= item.name %>"
+            />
+            <h3><%= item.name %></h3>
+            <p><%= item.category %></p>
+            <a href="/products/<%= item.name %>" class="btn"> Xem chi tiết </a>
+        </div>
+        <%}) %> <% } else { %>
+          <div class="box box_notfound">
+            <h3>Không có kết quả nào.</h3>
+        </div>
+        <% } %>
+    </div>
+</section>
+<%- include ('./layout/footer.ejs'); -%>

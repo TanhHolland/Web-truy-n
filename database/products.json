@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "622dd3837995a5945f42d443"
+  },
+  "name": "Conan",
+  "description": "Mở đầu câu truyện, cậu học sinh trung học 16 tuổi Shinichi Kudo bị biến thành cậu bé Conan Edogawa. Shinichi\r\t trong phần đầu của Thám tử lừng danh Conan được miêu tả là một thám tử học đường. Trong một lần đi chơi công viên Miền Nhiệt đới\r\t  với cô bạn từ thuở nhỏ (cũng là bạn gái) Ran Mori , cậu bị dính vào vụ án một hành khách trên Chuyến tàu tốc hành trong công viên,\r\t Kishida , bị giết trong một vụ án cắt đầu rùng rợn. Cậu đã làm sáng tỏ vụ án và trên đường về nhà, chứng kiến một vụ làm ăn mờ \r\t của những người đàn ông mặc toàn đồ đen. Kudo bị phát hiện, bị đánh ngất sau đó những người đàn ông áo đen đã cho cậu uống một thứ\r\t thuốc độc chưa qua thử nghiệm là Apotoxin-4869 (APTX4869) với mục đích thủ tiêu cậu. Tuy nhiên chất độc đã không giết chết Kudo\r\t Khi tỉnh lại, cậu bàng hoàng nhận thấy thân thể mình đã bị teo nhỏ trong hình dạng của một cậu học sinh tiểu học....",
+  "category": "Adventure",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-13T11:20:35.657Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:34:28.723Z"
+  },
+  "__v": 0,
+  "image": "conan.jpg",
+  "deletedAt": {
+    "$date": "2022-03-30T08:34:13.544Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "622de278250873b72d5b5b83"
+  },
+  "name": "Doremon",
+  "description": "Các câu chuyện trong Doraemon thường có một công thức chung, đó là xoay quanh những rắc rối hay xảy ra\r\t với cậu bé Nobita học lớp bốn, nhân vật chính thứ nhì của bộ truyện. Doraemon có một chiếc túi thần kỳ\r\t trước bụng với đủ loại bảo bối của tương lai. Cốt truyện thường gặp nhất sẽ là Nobita trở về nhà khóc lóc với\r\t những rắc rối mà cậu gặp phải ở trường hoặc với bạn bè. Sau khi bị cậu bé van nài hoặc thúc giục, Doraemon sẽ\r\t đưa ra một bảo bối giúp Nobita giải quyết những rắc rối của mình, hoặc là để trả đũa hay khoe khoang với bạn bè của cậu.\r\t Nobita sẽ lại thường đi quá xa so với dự định ban đầu của Doraemon, thậm chí với những bảo bối mới cậu\r\t còn gặp rắc rối lớn hơn trước đó. Đôi khi những người bạn của Nobita, thường là Suneo (Xêkô) hoặc Jaian (Chaien) lại\r\t lấy trộm những bảo bối và sử dụng chúng không đúng mục đích. Tuy nhiên thường thì ở cuối mỗi câu chuyện, những ai sử dụng\r\t sai mục đích bảo bối sẽ phải chịu hậu quả do mình gây ra, và người đọc sẽ rút ra được bài học từ đó",
+  "category": "Fantasy",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-13T12:24:24.637Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-30T08:34:29.547Z"
+  },
+  "__v": 0,
+  "image": "doremon.jpg",
+  "deletedAt": {
+    "$date": "2022-03-30T08:34:14.395Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "622edc585538e15dadbf70ee"
+  },
+  "name": "Magic Kaito",
+  "description": "Siêu trộm 1412 kẻ bị cảnh sát quốc tế truy nã bỗng biến mất , 8 năm sau lại xuất hiện.Kuroba Kaito một học sinh\r\t có biệt tài ảo thuật tình cờ phát hiện ra người cha quá cố của mình chính là siêu trộm Kid lừng\r\t danh cùng với việc cha mình bị ám sát chứ không phải do tai nạn . Kaito quyết định trở thành Kid đời thứ 2 với quyết\r\t tâm tìm kẻ đã giết cha cùng với viên ngọc Pandora ( viên ngọc mang lại sự bất tử )",
+  "category": "Adventure",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-14T06:10:32.863Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-23T06:53:53.444Z"
+  },
+  "__v": 0,
+  "image": "kaito-kid.jpg",
+  "deletedAt": {
+    "$date": "2022-03-30T08:34:14.395Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "623d776c3c31d9263f21c815"
+  },
+  "name": "One Piece",
+  "description": "One Piece là câu truyện kể về Luffy và các thuyền viên của mình. Khi còn nhỏ, Luffy ước mơ trở thành Vua Hải Tặc.\r\t Cuộc sống của cậu bé thay đổi khi cậu vô tình có được sức mạnh có thể co dãn như cao su, nhưng đổi \r\t lại, cậu không bao giờ có thể bơi được nữa. Giờ đây, Luffy cùng những người bạn hải tặc của mình ra khơi tìm kiếm \r\t kho báu One Piece, kho báu vĩ đại nhất trên thế giới. Trong One Piece, mỗi nhân vật trong đều mang một \r\t nét cá tính đặc sắc kết hợp cùng các tình huống kịch tính, lối dẫn truyện hấp dẫn chứa đầy các bước ngoặt bất \r\t ngờ và cũng vô cùng hài hước đã biến One Piece trở thành một trong những bộ truyện nổi tiếng nhất không thể bỏ \r\t qua. Hãy đọc One Piece để hòa mình vào một thế giới của những hải tặc rộng lớn, đầy màu sắc, sống động và \r\t thú vị, cùng đắm chìm với những nhân vật yêu tự do, trên hành trình đi tìm ước mơ của mình.",
+  "category": "Action",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:03:56.534Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-25T08:04:18.650Z"
+  },
+  "__v": 0,
+  "image": "one-piece.jpg"
+},
+{
+  "_id": {
+    "$oid": "623d79433c31d9263f21c868"
+  },
+  "name": "Shin",
+  "description": "Shin cậu bé bút chì là truyện tranh của tác giả Usui Yoshito là câu chuyện của cậu bé năm tuổi Shinosuke trong một gia đình\r\t trung lưu Nhật Bản thông thường. Gia đình gồm có ba, mẹ, Shin, em gái và một chú chó. Cách vẽ \r\t và kể câu chuyện của Shin - Cậu bé bút chì vừa gần gũi, vui vẻ lại mang lại cách nhìn con trẻ vô cùng độc đáo.",
+  "category": "Adventure",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2022-03-25T08:11:47.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T14:53:00.737Z"
+  },
+  "__v": 0,
+  "image": "918781454-shin.jpg"
+}]

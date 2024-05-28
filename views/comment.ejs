@@ -1,0 +1,39 @@
+<div class="box-container" id="box_comment">
+    <div class="box">
+        <h2 style="font-size: 20px">Bình luận</h2>
+        <% if (comments.length === 0) { %>
+        <h2>khong co binh luan</h2>
+        <% } else { %> <% comments.forEach((item) => { %>
+        <!-- Sua data -->
+        <div class="group">
+            <div class="images_comment">
+                <i class="fa-solid fa-user"></i>
+            </div>
+            <div class="content">
+                <span class="name"> <%= item.user_name %> </span>
+                <span class="time"> <%= item.date_time %> </span>
+                <p class="comment"><%= item.comment %></p>
+            </div>
+        </div>
+        <!-- Sua data -->
+        <% }) %> <% } %>
+
+        <form
+            id="commentForm"
+            action="/comment/<%= product %>/chapter/<%= name %>"
+            method="post"
+            data-product="<%= product %>"
+            data-name="<%= name %>"
+        >
+            <textarea
+                type="text"
+                name="message"
+                id="message"
+                class="message_input"
+                required
+                style="border-radius: 8px; padding: 10px"
+            ></textarea>
+            <button type="submit" class="btn_comment">Gửi bình luận</button>
+        </form>
+    </div>
+</div>
