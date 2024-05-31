@@ -44,7 +44,7 @@ app.use(methodOverride('_method'));
 
 // Passport Config
 require('./config/passport')(passport);
-require('./config/passport_google')(passport);
+// require('./config/passport_google')(passport);
 // Passport Middleware
 app.use(passport.initialize());
 app.use(passport.session());
